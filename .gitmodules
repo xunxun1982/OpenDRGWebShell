@@ -1,0 +1,3 @@
+[submodule "OpenDRGWeb"]
+	path = OpenDRGWeb
+	url = https://github.com/OpenDRG/OpenDRG.github.io.git
